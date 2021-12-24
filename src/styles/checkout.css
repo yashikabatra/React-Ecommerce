@@ -1,0 +1,19 @@
+.checkout_product{
+    display: inline-block;
+}
+
+#qty{
+    margin-left: 20px;
+}
+
+
+
+/* #col1{
+    border: 1px solid black;
+} */
+
+#product_details_checkout{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+

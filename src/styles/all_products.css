@@ -1,0 +1,16 @@
+#price_allproduct{
+    margin-top: 10px;
+}
+
+.card_inline{
+    display: inline-block;
+    margin: 25px 10px 10px 10px;
+}
+
+#col-1-allproducts{
+    border-right: 1px solid gray;
+}
+
+#filter_allproducts{
+    margin-left: 10px;
+}
